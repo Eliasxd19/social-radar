@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-06-14T17:01:57Z",
+  "generated_at": "2026-06-14T22:20:51Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
   "google_trends": [
     {
-      "id": "be83bdad3c3720c1",
-      "query": "verity minecraft",
+      "id": "42c7ab66f86f6f7e",
+      "query": "verity",
       "value": "+300%"
     },
     {
-      "id": "42c7ab66f86f6f7e",
-      "query": "verity",
+      "id": "be83bdad3c3720c1",
+      "query": "verity minecraft",
       "value": "+300%"
     },
     {
@@ -20,19 +20,9 @@
       "value": "+200%"
     },
     {
-      "id": "898cf4f88ced6884",
-      "query": "minecraft dungeons 2",
-      "value": "+100%"
-    },
-    {
       "id": "80562c2f31085c17",
       "query": "minecraft switch 2",
       "value": "+90%"
-    },
-    {
-      "id": "ffea1703d7e79c7c",
-      "query": "minecraft dungeons",
-      "value": "+60%"
     }
   ]
 }
