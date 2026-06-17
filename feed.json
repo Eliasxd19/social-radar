@@ -1,33 +1,7 @@
 {
-  "generated_at": "2026-06-16T22:22:15Z",
+  "generated_at": "2026-06-17T13:03:32Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
-  "google_trends": [
-    {
-      "id": "7200dbc2d5494315",
-      "query": "minecraft chaos cubed drop",
-      "value": "+1250%"
-    },
-    {
-      "id": "fb01eb27df6beaab",
-      "query": "mineplex",
-      "value": "+350%"
-    },
-    {
-      "id": "42c7ab66f86f6f7e",
-      "query": "verity",
-      "value": "+190%"
-    },
-    {
-      "id": "be83bdad3c3720c1",
-      "query": "verity minecraft",
-      "value": "+190%"
-    },
-    {
-      "id": "401825968b9f1c25",
-      "query": "verity minecraft mod",
-      "value": "+140%"
-    }
-  ]
+  "google_trends": []
 }
