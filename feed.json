@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-06-24T18:22:43Z",
+  "generated_at": "2026-06-24T23:53:25Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
-  "google_trends": []
+  "google_trends": [
+    {
+      "id": "5f5e1c55a137e3f8",
+      "query": "minecraft 26.2",
+      "value": "+120%"
+    },
+    {
+      "id": "7ba1097fbf56f706",
+      "query": "verity mod minecraft bedrock",
+      "value": "+120%"
+    },
+    {
+      "id": "b1d0051f6cd631fe",
+      "query": "dappled forest minecraft",
+      "value": "+100%"
+    }
+  ]
 }
