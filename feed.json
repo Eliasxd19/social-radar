@@ -1,23 +1,7 @@
 {
-  "generated_at": "2026-06-28T20:38:47Z",
+  "generated_at": "2026-06-29T13:56:20Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
-  "google_trends": [
-    {
-      "id": "b1d0051f6cd631fe",
-      "query": "dappled forest minecraft",
-      "value": "+250%"
-    },
-    {
-      "id": "ca834eb914c5464b",
-      "query": "minecraft terms",
-      "value": "+120%"
-    },
-    {
-      "id": "593ca27a6e65020c",
-      "query": "minecraft backpack",
-      "value": "+60%"
-    }
-  ]
+  "google_trends": []
 }
