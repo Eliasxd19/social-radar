@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-07-01T11:41:33Z",
+  "generated_at": "2026-07-01T18:33:06Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
-  "google_trends": []
+  "google_trends": [
+    {
+      "id": "ee41a51d7afbba15",
+      "query": "minecraft 26.3 snapshot 2",
+      "value": "+1800%"
+    },
+    {
+      "id": "b1d0051f6cd631fe",
+      "query": "dappled forest minecraft",
+      "value": "+60%"
+    }
+  ]
 }
