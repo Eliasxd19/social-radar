@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-07-02T10:20:18Z",
+  "generated_at": "2026-07-02T18:17:43Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
-  "google_trends": []
+  "google_trends": [
+    {
+      "id": "29bb3e1a72cfd6b5",
+      "query": "minecraft 26.3 snapshot update",
+      "value": "+2100%"
+    }
+  ]
 }
