@@ -1,33 +1,28 @@
 {
-  "generated_at": "2026-07-13T19:23:31Z",
+  "generated_at": "2026-07-13T20:57:17Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
   "google_trends": [
     {
-      "id": "bd7180dd160a0b97",
-      "query": "minecraft cushions",
-      "value": "+23450%"
-    },
-    {
       "id": "85c6d489bd9fc899",
       "query": "minecraft cushion update",
-      "value": "+17700%"
+      "value": "+17950%"
     },
     {
       "id": "7dd8f719cafb3788",
       "query": "cushion minecraft",
-      "value": "+8000%"
+      "value": "+8350%"
     },
     {
       "id": "2dc1f6968235b4c4",
       "query": "are cushions in minecraft bedrock",
-      "value": "+6150%"
+      "value": "+7600%"
     },
     {
       "id": "ff2eab54e501e6a4",
       "query": "minecraft new update",
-      "value": "+190%"
+      "value": "+200%"
     },
     {
       "id": "b1d0051f6cd631fe",
@@ -35,19 +30,14 @@
       "value": "+120%"
     },
     {
-      "id": "b059bce9b56a5156",
-      "query": "minecraft update",
-      "value": "+80%"
-    },
-    {
       "id": "6710c58dcd315d00",
       "query": "minecraft scholarship",
       "value": "+70%"
     },
     {
-      "id": "ca6db5102c4de4aa",
-      "query": "minecraft updates",
-      "value": "+40%"
+      "id": "b059bce9b56a5156",
+      "query": "minecraft update",
+      "value": "+60%"
     }
   ]
 }
