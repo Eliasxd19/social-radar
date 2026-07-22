@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-07-22T17:19:36Z",
+  "generated_at": "2026-07-22T19:19:48Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
-  "google_trends": []
+  "google_trends": [
+    {
+      "id": "949feae8c3573a24",
+      "query": "minecraft locator bar color checker",
+      "value": "+3450%"
+    },
+    {
+      "id": "09ccd79e98991b50",
+      "query": "minecraft aether legends",
+      "value": "+50%"
+    }
+  ]
 }
