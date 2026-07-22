@@ -1,23 +1,7 @@
 {
-  "generated_at": "2026-07-22T15:42:56Z",
+  "generated_at": "2026-07-22T17:19:36Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
-  "google_trends": [
-    {
-      "id": "949feae8c3573a24",
-      "query": "minecraft locator bar color checker",
-      "value": "+2900%"
-    },
-    {
-      "id": "09ccd79e98991b50",
-      "query": "minecraft aether legends",
-      "value": "+160%"
-    },
-    {
-      "id": "e6d1d3f36210857f",
-      "query": "verity mod minecraft",
-      "value": "+50%"
-    }
-  ]
+  "google_trends": []
 }
