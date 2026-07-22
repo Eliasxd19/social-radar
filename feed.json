@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T22:57:17Z",
+  "generated_at": "2026-07-22T02:39:32Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
@@ -7,12 +7,17 @@
     {
       "id": "09ccd79e98991b50",
       "query": "minecraft aether legends",
-      "value": "+850%"
+      "value": "+650%"
     },
     {
       "id": "b921b73ef5c2319e",
       "query": "aether minecraft",
-      "value": "+300%"
+      "value": "+200%"
+    },
+    {
+      "id": "7ba1097fbf56f706",
+      "query": "verity mod minecraft bedrock",
+      "value": "+60%"
     }
   ]
 }
