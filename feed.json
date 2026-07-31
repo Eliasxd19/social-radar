@@ -1,23 +1,7 @@
 {
-  "generated_at": "2026-07-31T21:04:04Z",
+  "generated_at": "2026-07-31T23:00:23Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
-  "google_trends": [
-    {
-      "id": "599620d2866bd112",
-      "query": "minecraft matcha flavored",
-      "value": "+20050%"
-    },
-    {
-      "id": "a0eff61ef5b243fb",
-      "query": "microsoft minecraft hardware requirements",
-      "value": "+8200%"
-    },
-    {
-      "id": "fa9a7666cfa4832a",
-      "query": "minecraft story mode",
-      "value": "+40%"
-    }
-  ]
+  "google_trends": []
 }
