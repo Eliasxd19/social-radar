@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-08-04T19:37:35Z",
+  "generated_at": "2026-08-04T21:12:46Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
-  "google_trends": []
+  "google_trends": [
+    {
+      "id": "599620d2866bd112",
+      "query": "minecraft matcha flavored",
+      "value": "+100%"
+    }
+  ]
 }
