@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-08-06T14:09:13Z",
+  "generated_at": "2026-08-06T23:59:18Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
-  "google_trends": []
+  "google_trends": [
+    {
+      "id": "bea3c08501fe86d1",
+      "query": "minecraft leviathan",
+      "value": "+1500%"
+    },
+    {
+      "id": "90df6f409800d791",
+      "query": "elder guardian minecraft",
+      "value": "+250%"
+    },
+    {
+      "id": "b1d0051f6cd631fe",
+      "query": "dappled forest minecraft",
+      "value": "+70%"
+    }
+  ]
 }
