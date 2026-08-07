@@ -1,18 +1,23 @@
 {
-  "generated_at": "2026-08-07T20:40:59Z",
+  "generated_at": "2026-08-07T22:35:08Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
   "google_trends": [
     {
+      "id": "663bd7ef3fed6c86",
+      "query": "nintendo switch 2 minecraft details",
+      "value": "+1750%"
+    },
+    {
       "id": "57d18cbd4177f706",
       "query": "leviathan minecraft",
-      "value": "+1750%"
+      "value": "+1650%"
     },
     {
       "id": "90df6f409800d791",
       "query": "elder guardian minecraft",
-      "value": "+300%"
+      "value": "+350%"
     },
     {
       "id": "b1d0051f6cd631fe",
