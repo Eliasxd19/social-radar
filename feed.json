@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-08-08T01:39:14Z",
+  "generated_at": "2026-08-08T03:25:36Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
   "google_trends": [
     {
-      "id": "bea3c08501fe86d1",
-      "query": "minecraft leviathan",
-      "value": "+1600%"
-    },
-    {
       "id": "716c915af7f656a3",
       "query": "minecraft dimension clash pvp",
-      "value": "+1250%"
+      "value": "+1850%"
+    },
+    {
+      "id": "57d18cbd4177f706",
+      "query": "leviathan minecraft",
+      "value": "+1700%"
     },
     {
       "id": "90df6f409800d791",
@@ -25,13 +25,13 @@
       "value": "+90%"
     },
     {
-      "id": "80562c2f31085c17",
-      "query": "minecraft switch 2",
-      "value": "+60%"
-    },
-    {
       "id": "b059bce9b56a5156",
       "query": "minecraft update",
+      "value": "+50%"
+    },
+    {
+      "id": "80562c2f31085c17",
+      "query": "minecraft switch 2",
       "value": "+40%"
     }
   ]
