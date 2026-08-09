@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-08-09T14:34:20Z",
+  "generated_at": "2026-08-09T16:34:52Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
   "google_trends": [
     {
-      "id": "57d18cbd4177f706",
-      "query": "leviathan minecraft",
-      "value": "+2000%"
+      "id": "bea3c08501fe86d1",
+      "query": "minecraft leviathan",
+      "value": "+1950%"
     },
     {
       "id": "8922163d23f17711",
       "query": "minecraft nintendo switch 2 release",
-      "value": "+1850%"
+      "value": "+1950%"
     },
     {
       "id": "90df6f409800d791",
@@ -33,6 +33,11 @@
       "id": "b059bce9b56a5156",
       "query": "minecraft update",
       "value": "+50%"
+    },
+    {
+      "id": "e4ba5f71e8034a1c",
+      "query": "minecraft warden",
+      "value": "+40%"
     }
   ]
 }
