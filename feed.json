@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-08-12T16:56:26Z",
+  "generated_at": "2026-08-12T19:01:50Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
-  "google_trends": []
+  "google_trends": [
+    {
+      "id": "8922163d23f17711",
+      "query": "minecraft nintendo switch 2 release",
+      "value": "+1800%"
+    },
+    {
+      "id": "90df6f409800d791",
+      "query": "elder guardian minecraft",
+      "value": "+450%"
+    },
+    {
+      "id": "12512470709f3b33",
+      "query": "minecraft bosses",
+      "value": "+350%"
+    },
+    {
+      "id": "14797717765716b9",
+      "query": "the warden minecraft",
+      "value": "+120%"
+    },
+    {
+      "id": "80562c2f31085c17",
+      "query": "minecraft switch 2",
+      "value": "+90%"
+    },
+    {
+      "id": "e4ba5f71e8034a1c",
+      "query": "minecraft warden",
+      "value": "+90%"
+    },
+    {
+      "id": "4b24b5be3a4fb491",
+      "query": "minecraft education",
+      "value": "+50%"
+    }
+  ]
 }
