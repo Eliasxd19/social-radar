@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T12:39:28Z",
+  "generated_at": "2026-08-23T14:23:09Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
@@ -10,14 +10,24 @@
       "value": "+90%"
     },
     {
-      "id": "4b24b5be3a4fb491",
-      "query": "minecraft education",
-      "value": "+50%"
-    },
-    {
       "id": "898cf4f88ced6884",
       "query": "minecraft dungeons 2",
-      "value": "+50%"
+      "value": "+60%"
+    },
+    {
+      "id": "4b24b5be3a4fb491",
+      "query": "minecraft education",
+      "value": "+40%"
+    },
+    {
+      "id": "9163820666604bfa",
+      "query": "67",
+      "value": "+40%"
+    },
+    {
+      "id": "ffea1703d7e79c7c",
+      "query": "minecraft dungeons",
+      "value": "+40%"
     }
   ]
 }
