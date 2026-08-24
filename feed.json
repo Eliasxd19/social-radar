@@ -1,28 +1,7 @@
 {
-  "generated_at": "2026-08-23T22:20:53Z",
+  "generated_at": "2026-08-24T01:16:40Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
-  "google_trends": [
-    {
-      "id": "1ce810f9e654abda",
-      "query": "minecraft crocs",
-      "value": "+110%"
-    },
-    {
-      "id": "898cf4f88ced6884",
-      "query": "minecraft dungeons 2",
-      "value": "+60%"
-    },
-    {
-      "id": "4b24b5be3a4fb491",
-      "query": "minecraft education",
-      "value": "+40%"
-    },
-    {
-      "id": "68f722bf9c324d90",
-      "query": "minecraft dungeons 2 release date",
-      "value": "+40%"
-    }
-  ]
+  "google_trends": []
 }
