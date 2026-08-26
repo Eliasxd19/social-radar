@@ -1,38 +1,7 @@
 {
-  "generated_at": "2026-08-26T06:49:31Z",
+  "generated_at": "2026-08-26T08:42:33Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
-  "google_trends": [
-    {
-      "id": "f4537d5a7e22810b",
-      "query": "strawberry minecraft house",
-      "value": "+1750%"
-    },
-    {
-      "id": "1ce810f9e654abda",
-      "query": "minecraft crocs",
-      "value": "+130%"
-    },
-    {
-      "id": "f24a6a12095cfaa0",
-      "query": "steve from minecraft",
-      "value": "+60%"
-    },
-    {
-      "id": "898cf4f88ced6884",
-      "query": "minecraft dungeons 2",
-      "value": "+60%"
-    },
-    {
-      "id": "d86f05408e53be08",
-      "query": "steve minecraft",
-      "value": "+50%"
-    },
-    {
-      "id": "9163820666604bfa",
-      "query": "67",
-      "value": "+50%"
-    }
-  ]
+  "google_trends": []
 }
