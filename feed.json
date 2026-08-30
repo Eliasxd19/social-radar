@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T09:52:47Z",
+  "generated_at": "2026-08-30T14:42:35Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
@@ -7,17 +7,22 @@
     {
       "id": "f4537d5a7e22810b",
       "query": "strawberry minecraft house",
-      "value": "+3800%"
+      "value": "+3400%"
+    },
+    {
+      "id": "3c2514cc60c73f53",
+      "query": "crumbl minecraft cookies",
+      "value": "+2750%"
     },
     {
       "id": "9924be85490fd03a",
       "query": "crumbl minecraft dessert menu",
-      "value": "+3100%"
+      "value": "+2100%"
     },
     {
       "id": "c227ee2fa02110b4",
       "query": "crumbl minecraft",
-      "value": "+1250%"
+      "value": "+1200%"
     },
     {
       "id": "9b241172c8e60286",
@@ -32,7 +37,12 @@
     {
       "id": "898cf4f88ced6884",
       "query": "minecraft dungeons 2",
-      "value": "+60%"
+      "value": "+50%"
+    },
+    {
+      "id": "9163820666604bfa",
+      "query": "67",
+      "value": "+40%"
     }
   ]
 }
