@@ -1,58 +1,7 @@
 {
-  "generated_at": "2026-09-01T14:33:25Z",
+  "generated_at": "2026-09-01T19:14:08Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
-  "google_trends": [
-    {
-      "id": "b40d70c190ce5b86",
-      "query": "crumbl minecraft collaboration menu",
-      "value": "+15900%"
-    },
-    {
-      "id": "b64fe1f514d869be",
-      "query": "crumbl cookies minecraft",
-      "value": "+4900%"
-    },
-    {
-      "id": "9924be85490fd03a",
-      "query": "crumbl minecraft dessert menu",
-      "value": "+3300%"
-    },
-    {
-      "id": "c227ee2fa02110b4",
-      "query": "crumbl minecraft",
-      "value": "+2200%"
-    },
-    {
-      "id": "9b241172c8e60286",
-      "query": "crumbl cookie minecraft",
-      "value": "+1500%"
-    },
-    {
-      "id": "0b4e3a52f99345e1",
-      "query": "crumble minecraft",
-      "value": "+1200%"
-    },
-    {
-      "id": "f4537d5a7e22810b",
-      "query": "strawberry minecraft house",
-      "value": "+1000%"
-    },
-    {
-      "id": "dd670cff30a75723",
-      "query": "crumbl x minecraft",
-      "value": "+500%"
-    },
-    {
-      "id": "898cf4f88ced6884",
-      "query": "minecraft dungeons 2",
-      "value": "+60%"
-    },
-    {
-      "id": "68f722bf9c324d90",
-      "query": "minecraft dungeons 2 release date",
-      "value": "+50%"
-    }
-  ]
+  "google_trends": []
 }
