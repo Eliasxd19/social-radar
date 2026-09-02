@@ -1,58 +1,7 @@
 {
-  "generated_at": "2026-09-02T08:27:15Z",
+  "generated_at": "2026-09-02T14:07:56Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
-  "google_trends": [
-    {
-      "id": "b40d70c190ce5b86",
-      "query": "crumbl minecraft collaboration menu",
-      "value": "+20200%"
-    },
-    {
-      "id": "3c2514cc60c73f53",
-      "query": "crumbl minecraft cookies",
-      "value": "+6300%"
-    },
-    {
-      "id": "9924be85490fd03a",
-      "query": "crumbl minecraft dessert menu",
-      "value": "+3300%"
-    },
-    {
-      "id": "c227ee2fa02110b4",
-      "query": "crumbl minecraft",
-      "value": "+2850%"
-    },
-    {
-      "id": "78434027896281a0",
-      "query": "nintendo minecraft minecoin policy update",
-      "value": "+2550%"
-    },
-    {
-      "id": "9b241172c8e60286",
-      "query": "crumbl cookie minecraft",
-      "value": "+2250%"
-    },
-    {
-      "id": "0a30893a7f168be9",
-      "query": "crumbl cookie",
-      "value": "+2150%"
-    },
-    {
-      "id": "0b4e3a52f99345e1",
-      "query": "crumble minecraft",
-      "value": "+1700%"
-    },
-    {
-      "id": "dd670cff30a75723",
-      "query": "crumbl x minecraft",
-      "value": "+750%"
-    },
-    {
-      "id": "196e79be58cf95a0",
-      "query": "minecraft capes",
-      "value": "+60%"
-    }
-  ]
+  "google_trends": []
 }
