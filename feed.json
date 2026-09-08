@@ -1,7 +1,28 @@
 {
-  "generated_at": "2026-09-08T14:11:21Z",
+  "generated_at": "2026-09-08T19:16:53Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
-  "google_trends": []
+  "google_trends": [
+    {
+      "id": "02880bb823342330",
+      "query": "technoblade minecraft creator documentary project",
+      "value": "+7900%"
+    },
+    {
+      "id": "78434027896281a0",
+      "query": "nintendo minecraft minecoin policy update",
+      "value": "+3100%"
+    },
+    {
+      "id": "e9a88117887978f9",
+      "query": "minecraft sounding",
+      "value": "+650%"
+    },
+    {
+      "id": "fcaffbee316dbc5f",
+      "query": "minecraft crumbl cookie",
+      "value": "+70%"
+    }
+  ]
 }
