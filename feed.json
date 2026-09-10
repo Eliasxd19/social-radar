@@ -1,23 +1,7 @@
 {
-  "generated_at": "2026-09-10T03:23:04Z",
+  "generated_at": "2026-09-10T08:41:40Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
-  "google_trends": [
-    {
-      "id": "0ac3c8c067668403",
-      "query": "mike tomlin minecraft",
-      "value": "+12050%"
-    },
-    {
-      "id": "02880bb823342330",
-      "query": "technoblade minecraft creator documentary project",
-      "value": "+6850%"
-    },
-    {
-      "id": "e9a88117887978f9",
-      "query": "minecraft sounding",
-      "value": "+950%"
-    }
-  ]
+  "google_trends": []
 }
