@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-11T22:17:29Z",
+  "generated_at": "2026-09-12T03:24:33Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
-  "google_trends": []
+  "google_trends": [
+    {
+      "id": "0ac3c8c067668403",
+      "query": "mike tomlin minecraft",
+      "value": "+10350%"
+    },
+    {
+      "id": "e9a88117887978f9",
+      "query": "minecraft sounding",
+      "value": "+90%"
+    }
+  ]
 }
