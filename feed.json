@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-09-14T09:37:10Z",
+  "generated_at": "2026-09-14T16:11:27Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
-  "google_trends": []
+  "google_trends": [
+    {
+      "id": "0ac3c8c067668403",
+      "query": "mike tomlin minecraft",
+      "value": "+16150%"
+    },
+    {
+      "id": "0f21e2c676e7e168",
+      "query": "minecraft world in a table",
+      "value": "+1500%"
+    },
+    {
+      "id": "e3c5edd007b56b10",
+      "query": "minecraft villager",
+      "value": "+50%"
+    }
+  ]
 }
