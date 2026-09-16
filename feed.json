@@ -1,58 +1,7 @@
 {
-  "generated_at": "2026-09-15T23:59:26Z",
+  "generated_at": "2026-09-16T04:38:35Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
-  "google_trends": [
-    {
-      "id": "0f21e2c676e7e168",
-      "query": "minecraft world in a table",
-      "value": "+1450%"
-    },
-    {
-      "id": "0ac3c8c067668403",
-      "query": "mike tomlin minecraft",
-      "value": "+350%"
-    },
-    {
-      "id": "cb8d0cd63590dc2a",
-      "query": "minecraft wilderness bound update",
-      "value": "+250%"
-    },
-    {
-      "id": "9befe2e4744d3368",
-      "query": "new minecraft update",
-      "value": "+140%"
-    },
-    {
-      "id": "67c18fe6d028a477",
-      "query": "minecraft 26.3",
-      "value": "+90%"
-    },
-    {
-      "id": "b059bce9b56a5156",
-      "query": "minecraft update",
-      "value": "+60%"
-    },
-    {
-      "id": "b1d0051f6cd631fe",
-      "query": "dappled forest minecraft",
-      "value": "+60%"
-    },
-    {
-      "id": "75754384b1a50c92",
-      "query": "sonic the hedgehog",
-      "value": "+50%"
-    },
-    {
-      "id": "e3c5edd007b56b10",
-      "query": "minecraft villager",
-      "value": "+50%"
-    },
-    {
-      "id": "ca6db5102c4de4aa",
-      "query": "minecraft updates",
-      "value": "+50%"
-    }
-  ]
+  "google_trends": []
 }
