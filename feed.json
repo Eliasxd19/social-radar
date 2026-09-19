@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T17:01:26Z",
+  "generated_at": "2026-09-19T20:08:09Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
@@ -7,12 +7,12 @@
     {
       "id": "249c6aa2794fa870",
       "query": "gpt-6 astra minecraft test",
-      "value": "+23500%"
+      "value": "+23050%"
     },
     {
       "id": "67c18fe6d028a477",
       "query": "minecraft 26.3",
-      "value": "+450%"
+      "value": "+500%"
     },
     {
       "id": "3a2a1baa35caf074",
@@ -20,9 +20,9 @@
       "value": "+450%"
     },
     {
-      "id": "ff2eab54e501e6a4",
-      "query": "minecraft new update",
-      "value": "+250%"
+      "id": "9befe2e4744d3368",
+      "query": "new minecraft update",
+      "value": "+300%"
     },
     {
       "id": "b1d0051f6cd631fe",
@@ -30,29 +30,24 @@
       "value": "+250%"
     },
     {
+      "id": "cb8d0cd63590dc2a",
+      "query": "minecraft wilderness bound update",
+      "value": "+150%"
+    },
+    {
       "id": "b059bce9b56a5156",
       "query": "minecraft update",
       "value": "+140%"
     },
     {
-      "id": "cb8d0cd63590dc2a",
-      "query": "minecraft wilderness bound update",
-      "value": "+140%"
-    },
-    {
       "id": "6aa1dd204f619297",
       "query": "minecraft wilderness bound",
-      "value": "+130%"
-    },
-    {
-      "id": "d648c0a3acc03562",
-      "query": "when does the new minecraft update come out",
-      "value": "+110%"
+      "value": "+140%"
     },
     {
       "id": "ca6db5102c4de4aa",
       "query": "minecraft updates",
-      "value": "+60%"
+      "value": "+80%"
     }
   ]
 }
