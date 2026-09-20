@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T23:55:21Z",
+  "generated_at": "2026-09-20T03:43:05Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
@@ -17,12 +17,12 @@
     {
       "id": "3a2a1baa35caf074",
       "query": "new minecraft biome",
-      "value": "+450%"
+      "value": "+550%"
     },
     {
       "id": "ff2eab54e501e6a4",
       "query": "minecraft new update",
-      "value": "+250%"
+      "value": "+300%"
     },
     {
       "id": "b1d0051f6cd631fe",
@@ -32,22 +32,27 @@
     {
       "id": "cb8d0cd63590dc2a",
       "query": "minecraft wilderness bound update",
-      "value": "+150%"
+      "value": "+170%"
     },
     {
-      "id": "fbf885c51fd1282a",
-      "query": "wilderness bound minecraft",
-      "value": "+140%"
+      "id": "6aa1dd204f619297",
+      "query": "minecraft wilderness bound",
+      "value": "+160%"
     },
     {
       "id": "b059bce9b56a5156",
       "query": "minecraft update",
-      "value": "+130%"
+      "value": "+140%"
     },
     {
       "id": "ca6db5102c4de4aa",
       "query": "minecraft updates",
       "value": "+70%"
+    },
+    {
+      "id": "b96cfbbfb953d700",
+      "query": "askew",
+      "value": "+40%"
     }
   ]
 }
