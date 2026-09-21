@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T09:40:01Z",
+  "generated_at": "2026-09-21T16:15:01Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
@@ -7,12 +7,12 @@
     {
       "id": "249c6aa2794fa870",
       "query": "gpt-6 astra minecraft test",
-      "value": "+29750%"
+      "value": "+31150%"
     },
     {
       "id": "67c18fe6d028a477",
       "query": "minecraft 26.3",
-      "value": "+700%"
+      "value": "+750%"
     },
     {
       "id": "3a2a1baa35caf074",
@@ -20,19 +20,19 @@
       "value": "+700%"
     },
     {
+      "id": "ff2eab54e501e6a4",
+      "query": "minecraft new update",
+      "value": "+400%"
+    },
+    {
       "id": "b1d0051f6cd631fe",
       "query": "dappled forest minecraft",
       "value": "+400%"
     },
     {
-      "id": "ff2eab54e501e6a4",
-      "query": "minecraft new update",
-      "value": "+350%"
-    },
-    {
-      "id": "6aa1dd204f619297",
-      "query": "minecraft wilderness bound",
-      "value": "+200%"
+      "id": "fbf885c51fd1282a",
+      "query": "wilderness bound minecraft",
+      "value": "+250%"
     },
     {
       "id": "cb8d0cd63590dc2a",
@@ -47,12 +47,12 @@
     {
       "id": "5ae27e4cab623fef",
       "query": "minecraft update 2026",
-      "value": "+130%"
+      "value": "+140%"
     },
     {
       "id": "ca6db5102c4de4aa",
       "query": "minecraft updates",
-      "value": "+80%"
+      "value": "+90%"
     }
   ]
 }
