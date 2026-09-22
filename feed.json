@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T07:23:04Z",
+  "generated_at": "2026-09-22T13:09:05Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
@@ -7,12 +7,12 @@
     {
       "id": "249c6aa2794fa870",
       "query": "gpt-6 astra minecraft test",
-      "value": "+32700%"
+      "value": "+33950%"
     },
     {
       "id": "3a2a1baa35caf074",
       "query": "new minecraft biome",
-      "value": "+750%"
+      "value": "+850%"
     },
     {
       "id": "67c18fe6d028a477",
@@ -25,9 +25,19 @@
       "value": "+350%"
     },
     {
-      "id": "ff2eab54e501e6a4",
-      "query": "minecraft new update",
+      "id": "4b70cfd949e0c74c",
+      "query": "how to make a cushion in minecraft",
+      "value": "+350%"
+    },
+    {
+      "id": "9befe2e4744d3368",
+      "query": "new minecraft update",
       "value": "+300%"
+    },
+    {
+      "id": "a7adcff2850798b4",
+      "query": "how to make cushions in minecraft",
+      "value": "+250%"
     },
     {
       "id": "6aa1dd204f619297",
@@ -37,22 +47,12 @@
     {
       "id": "cb8d0cd63590dc2a",
       "query": "minecraft wilderness bound update",
-      "value": "+190%"
+      "value": "+170%"
     },
     {
       "id": "b059bce9b56a5156",
       "query": "minecraft update",
       "value": "+150%"
-    },
-    {
-      "id": "5ae27e4cab623fef",
-      "query": "minecraft update 2026",
-      "value": "+130%"
-    },
-    {
-      "id": "ca6db5102c4de4aa",
-      "query": "minecraft updates",
-      "value": "+80%"
     }
   ]
 }
