@@ -1,58 +1,7 @@
 {
-  "generated_at": "2026-09-25T09:25:38Z",
+  "generated_at": "2026-09-25T15:01:25Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
-  "google_trends": [
-    {
-      "id": "9f9d525307d56142",
-      "query": "minecraft redeem",
-      "value": "+200%"
-    },
-    {
-      "id": "f9db1fd1805ff0c9",
-      "query": "when is minecraft live",
-      "value": "+170%"
-    },
-    {
-      "id": "3609a776078e861e",
-      "query": "minecraft live",
-      "value": "+100%"
-    },
-    {
-      "id": "f880486c7d9a5962",
-      "query": "when does minecraft dungeons 2 release",
-      "value": "+70%"
-    },
-    {
-      "id": "898cf4f88ced6884",
-      "query": "minecraft dungeons 2",
-      "value": "+60%"
-    },
-    {
-      "id": "68f722bf9c324d90",
-      "query": "minecraft dungeons 2 release date",
-      "value": "+60%"
-    },
-    {
-      "id": "fb95fe674e24e10e",
-      "query": "best modded minecraft server hosting",
-      "value": "+60%"
-    },
-    {
-      "id": "4969fd4d482fde91",
-      "query": "minecraft 1.8.8",
-      "value": "+50%"
-    },
-    {
-      "id": "ffea1703d7e79c7c",
-      "query": "minecraft dungeons",
-      "value": "+40%"
-    },
-    {
-      "id": "e9ad7bc895fe62bb",
-      "query": "minecraft server hosting",
-      "value": "+40%"
-    }
-  ]
+  "google_trends": []
 }
