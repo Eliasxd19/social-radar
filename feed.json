@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T23:02:33Z",
+  "generated_at": "2026-09-25T03:44:22Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
@@ -7,7 +7,17 @@
     {
       "id": "9f9d525307d56142",
       "query": "minecraft redeem",
-      "value": "+180%"
+      "value": "+200%"
+    },
+    {
+      "id": "f9db1fd1805ff0c9",
+      "query": "when is minecraft live",
+      "value": "+160%"
+    },
+    {
+      "id": "3609a776078e861e",
+      "query": "minecraft live",
+      "value": "+90%"
     },
     {
       "id": "f880486c7d9a5962",
@@ -15,9 +25,9 @@
       "value": "+80%"
     },
     {
-      "id": "3609a776078e861e",
-      "query": "minecraft live",
-      "value": "+70%"
+      "id": "898cf4f88ced6884",
+      "query": "minecraft dungeons 2",
+      "value": "+60%"
     },
     {
       "id": "68f722bf9c324d90",
@@ -25,34 +35,24 @@
       "value": "+60%"
     },
     {
-      "id": "898cf4f88ced6884",
-      "query": "minecraft dungeons 2",
+      "id": "fb95fe674e24e10e",
+      "query": "best modded minecraft server hosting",
       "value": "+60%"
     },
     {
-      "id": "fb95fe674e24e10e",
-      "query": "best modded minecraft server hosting",
+      "id": "4b24b5be3a4fb491",
+      "query": "minecraft education",
+      "value": "+50%"
+    },
+    {
+      "id": "ebc56023a1f107a0",
+      "query": "do a barrel roll",
       "value": "+50%"
     },
     {
       "id": "bde315328b1d43ff",
       "query": "modded minecraft server hosting",
       "value": "+50%"
-    },
-    {
-      "id": "4969fd4d482fde91",
-      "query": "minecraft 1.8.8",
-      "value": "+50%"
-    },
-    {
-      "id": "ebc56023a1f107a0",
-      "query": "do a barrel roll",
-      "value": "+40%"
-    },
-    {
-      "id": "92185eb12c4438b8",
-      "query": "best minecraft server hosting",
-      "value": "+40%"
     }
   ]
 }
