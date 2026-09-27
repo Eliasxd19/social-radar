@@ -1,58 +1,7 @@
 {
-  "generated_at": "2026-09-26T22:24:28Z",
+  "generated_at": "2026-09-27T04:00:40Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
-  "google_trends": [
-    {
-      "id": "121a12d515f27a68",
-      "query": "minecraft new dimension",
-      "value": "+5500%"
-    },
-    {
-      "id": "ebefd63ab042757f",
-      "query": "minecraft sift",
-      "value": "+4850%"
-    },
-    {
-      "id": "64a50b4b73ac3df7",
-      "query": "minecraft new dimension sift",
-      "value": "+4300%"
-    },
-    {
-      "id": "685218841dcae6bd",
-      "query": "the sift minecraft",
-      "value": "+4200%"
-    },
-    {
-      "id": "e90f60ee68e811c8",
-      "query": "minecraft sift dimension",
-      "value": "+3200%"
-    },
-    {
-      "id": "27f10a91239e8ec3",
-      "query": "the sift minecraft dimension",
-      "value": "+2850%"
-    },
-    {
-      "id": "d1e2f715e4b08d64",
-      "query": "when is the sift coming to minecraft",
-      "value": "+2650%"
-    },
-    {
-      "id": "8fa194790900ff37",
-      "query": "what is the sift minecraft",
-      "value": "+2600%"
-    },
-    {
-      "id": "aec63bd4acb76bb3",
-      "query": "minecraft live 2026",
-      "value": "+600%"
-    },
-    {
-      "id": "f9db1fd1805ff0c9",
-      "query": "when is minecraft live",
-      "value": "+450%"
-    }
-  ]
+  "google_trends": []
 }
