@@ -1,58 +1,58 @@
 {
-  "generated_at": "2026-09-28T04:00:27Z",
+  "generated_at": "2026-09-28T10:48:14Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
   "google_trends": [
     {
-      "id": "121a12d515f27a68",
-      "query": "minecraft new dimension",
-      "value": "+16350%"
+      "id": "64a50b4b73ac3df7",
+      "query": "minecraft new dimension sift",
+      "value": "+31500%"
     },
     {
-      "id": "ebefd63ab042757f",
-      "query": "minecraft sift",
-      "value": "+16200%"
+      "id": "26b3a93a15294bc3",
+      "query": "new dimension minecraft",
+      "value": "+16150%"
     },
     {
       "id": "2bf7c085bebf3f41",
       "query": "sift",
-      "value": "+15750%"
+      "value": "+16000%"
+    },
+    {
+      "id": "7433c83813a2ceed",
+      "query": "sift minecraft",
+      "value": "+15800%"
     },
     {
       "id": "d1e2f715e4b08d64",
       "query": "when is the sift coming to minecraft",
-      "value": "+15650%"
-    },
-    {
-      "id": "64a50b4b73ac3df7",
-      "query": "minecraft new dimension sift",
-      "value": "+15250%"
-    },
-    {
-      "id": "685218841dcae6bd",
-      "query": "the sift minecraft",
-      "value": "+13700%"
+      "value": "+15750%"
     },
     {
       "id": "a5aa5908dd784731",
       "query": "the sift",
-      "value": "+13250%"
+      "value": "+13700%"
     },
     {
-      "id": "dcf000d53ffd2bfe",
-      "query": "sift dimension minecraft",
-      "value": "+11150%"
-    },
-    {
-      "id": "27f10a91239e8ec3",
-      "query": "the sift minecraft dimension",
-      "value": "+10050%"
+      "id": "00c2da7ac871c741",
+      "query": "minecraft the sift",
+      "value": "+13400%"
     },
     {
       "id": "328c058b26c54079",
       "query": "minecraft new dimension the sift",
-      "value": "+9900%"
+      "value": "+12550%"
+    },
+    {
+      "id": "dcf000d53ffd2bfe",
+      "query": "sift dimension minecraft",
+      "value": "+11400%"
+    },
+    {
+      "id": "27f10a91239e8ec3",
+      "query": "the sift minecraft dimension",
+      "value": "+10200%"
     }
   ]
 }
