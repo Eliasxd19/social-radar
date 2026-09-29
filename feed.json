@@ -1,58 +1,7 @@
 {
-  "generated_at": "2026-09-29T07:56:40Z",
+  "generated_at": "2026-09-29T14:42:49Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
-  "google_trends": [
-    {
-      "id": "64a50b4b73ac3df7",
-      "query": "minecraft new dimension sift",
-      "value": "+21400%"
-    },
-    {
-      "id": "d1e2f715e4b08d64",
-      "query": "when is the sift coming to minecraft",
-      "value": "+18850%"
-    },
-    {
-      "id": "7433c83813a2ceed",
-      "query": "sift minecraft",
-      "value": "+17750%"
-    },
-    {
-      "id": "26b3a93a15294bc3",
-      "query": "new dimension minecraft",
-      "value": "+17400%"
-    },
-    {
-      "id": "2bf7c085bebf3f41",
-      "query": "sift",
-      "value": "+17300%"
-    },
-    {
-      "id": "a5aa5908dd784731",
-      "query": "the sift",
-      "value": "+15550%"
-    },
-    {
-      "id": "685218841dcae6bd",
-      "query": "the sift minecraft",
-      "value": "+15050%"
-    },
-    {
-      "id": "8fa194790900ff37",
-      "query": "what is the sift minecraft",
-      "value": "+14250%"
-    },
-    {
-      "id": "dcf000d53ffd2bfe",
-      "query": "sift dimension minecraft",
-      "value": "+12650%"
-    },
-    {
-      "id": "328c058b26c54079",
-      "query": "minecraft new dimension the sift",
-      "value": "+11350%"
-    }
-  ]
+  "google_trends": []
 }
