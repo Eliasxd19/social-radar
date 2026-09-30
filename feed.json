@@ -1,58 +1,58 @@
 {
-  "generated_at": "2026-09-30T08:05:52Z",
+  "generated_at": "2026-09-30T16:16:50Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
   "google_trends": [
     {
-      "id": "865fced4e126f630",
-      "query": "aurora cape minecraft",
-      "value": "+38000%"
+      "id": "2ec0c46bef44cbfe",
+      "query": "minecraft aurora cape",
+      "value": "+41100%"
     },
     {
       "id": "d1e2f715e4b08d64",
       "query": "when is the sift coming to minecraft",
-      "value": "+22950%"
+      "value": "+24100%"
     },
     {
-      "id": "328c058b26c54079",
-      "query": "minecraft new dimension the sift",
-      "value": "+21450%"
+      "id": "ab5cea03394d223d",
+      "query": "new minecraft dimension",
+      "value": "+16350%"
     },
     {
-      "id": "26b3a93a15294bc3",
-      "query": "new dimension minecraft",
-      "value": "+17750%"
-    },
-    {
-      "id": "ebefd63ab042757f",
-      "query": "minecraft sift",
-      "value": "+15200%"
-    },
-    {
-      "id": "685218841dcae6bd",
-      "query": "the sift minecraft",
-      "value": "+14000%"
+      "id": "7433c83813a2ceed",
+      "query": "sift minecraft",
+      "value": "+13150%"
     },
     {
       "id": "2bf7c085bebf3f41",
       "query": "sift",
-      "value": "+13800%"
+      "value": "+12900%"
     },
     {
       "id": "a5aa5908dd784731",
       "query": "the sift",
-      "value": "+13700%"
+      "value": "+12500%"
+    },
+    {
+      "id": "00c2da7ac871c741",
+      "query": "minecraft the sift",
+      "value": "+12350%"
     },
     {
       "id": "64a50b4b73ac3df7",
       "query": "minecraft new dimension sift",
-      "value": "+11300%"
+      "value": "+11500%"
     },
     {
       "id": "3d288a77d968446e",
       "query": "is the sift coming to minecraft",
-      "value": "+10850%"
+      "value": "+10250%"
+    },
+    {
+      "id": "dcf000d53ffd2bfe",
+      "query": "sift dimension minecraft",
+      "value": "+9200%"
     }
   ]
 }
