@@ -1,63 +1,58 @@
 {
-  "generated_at": "2026-10-03T07:40:27Z",
+  "generated_at": "2026-10-03T13:06:54Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
   "google_trends": [
     {
-      "id": "865fced4e126f630",
-      "query": "aurora cape minecraft",
-      "value": "+59600%"
+      "id": "2ec0c46bef44cbfe",
+      "query": "minecraft aurora cape",
+      "value": "+62350%"
     },
     {
       "id": "d1e2f715e4b08d64",
       "query": "when is the sift coming to minecraft",
-      "value": "+29050%"
-    },
-    {
-      "id": "3d288a77d968446e",
-      "query": "is the sift coming to minecraft",
-      "value": "+10300%"
-    },
-    {
-      "id": "4927f23f57c6ad80",
-      "query": "mike tomlin",
-      "value": "+9250%"
-    },
-    {
-      "id": "26b3a93a15294bc3",
-      "query": "new dimension minecraft",
-      "value": "+9200%"
-    },
-    {
-      "id": "0ac3c8c067668403",
-      "query": "mike tomlin minecraft",
-      "value": "+9000%"
+      "value": "+27900%"
     },
     {
       "id": "80663abf4dff3eae",
       "query": "mike tomlin minecraft city",
-      "value": "+8900%"
+      "value": "+9600%"
+    },
+    {
+      "id": "3d288a77d968446e",
+      "query": "is the sift coming to minecraft",
+      "value": "+9300%"
+    },
+    {
+      "id": "4927f23f57c6ad80",
+      "query": "mike tomlin",
+      "value": "+9150%"
+    },
+    {
+      "id": "ab5cea03394d223d",
+      "query": "new minecraft dimension",
+      "value": "+9050%"
+    },
+    {
+      "id": "0ac3c8c067668403",
+      "query": "mike tomlin minecraft",
+      "value": "+8350%"
     },
     {
       "id": "00c2da7ac871c741",
       "query": "minecraft the sift",
-      "value": "+7750%"
+      "value": "+7900%"
     },
     {
       "id": "64a50b4b73ac3df7",
       "query": "minecraft new dimension sift",
-      "value": "+7650%"
+      "value": "+7700%"
     },
     {
       "id": "a5aa5908dd784731",
       "query": "the sift",
-      "value": "+7450%"
-    },
-    {
-      "id": "898cf4f88ced6884",
-      "query": "minecraft dungeons 2",
-      "value": "+350%"
+      "value": "+7550%"
     }
   ]
 }
