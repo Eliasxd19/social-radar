@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-08T17:13:35Z",
+  "generated_at": "2026-10-08T22:59:55Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
-  "google_trends": []
+  "google_trends": [
+    {
+      "id": "f1baa892b673e5dd",
+      "query": "minecraft dungeons 2 wiki",
+      "value": "+40%"
+    }
+  ]
 }
