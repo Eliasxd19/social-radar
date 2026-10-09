@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-09T12:40:47Z",
+  "generated_at": "2026-10-09T19:17:10Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
-  "google_trends": []
+  "google_trends": [
+    {
+      "id": "66a048c696e8f992",
+      "query": "minecraft schematics",
+      "value": "+40%"
+    }
+  ]
 }
