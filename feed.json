@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-10T04:37:21Z",
+  "generated_at": "2026-10-10T12:00:06Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
-  "google_trends": []
+  "google_trends": [
+    {
+      "id": "ed41cada825785db",
+      "query": "minecraft font",
+      "value": "+40%"
+    }
+  ]
 }
