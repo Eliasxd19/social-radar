@@ -1,13 +1,18 @@
 {
-  "generated_at": "2026-10-11T00:42:12Z",
+  "generated_at": "2026-10-11T08:21:30Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
   "google_trends": [
     {
+      "id": "f3af783c0cf59976",
+      "query": "minecraftle",
+      "value": "+550%"
+    },
+    {
       "id": "ed41cada825785db",
       "query": "minecraft font",
-      "value": "+50%"
+      "value": "+60%"
     }
   ]
 }
