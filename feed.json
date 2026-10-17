@@ -1,13 +1,18 @@
 {
-  "generated_at": "2026-10-16T22:35:14Z",
+  "generated_at": "2026-10-17T03:15:10Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
   "google_trends": [
     {
+      "id": "4bbe6acb73455c10",
+      "query": "magic cat academy 3",
+      "value": "+1850%"
+    },
+    {
       "id": "38729c60c7dca72e",
       "query": "baguette",
-      "value": "+400%"
+      "value": "+500%"
     },
     {
       "id": "f3af783c0cf59976",
@@ -15,14 +20,19 @@
       "value": "+80%"
     },
     {
+      "id": "c20de8173f521a34",
+      "query": "elgoog",
+      "value": "+70%"
+    },
+    {
       "id": "e6d1d3f36210857f",
       "query": "verity mod minecraft",
       "value": "+60%"
     },
     {
-      "id": "c20de8173f521a34",
-      "query": "elgoog",
-      "value": "+60%"
+      "id": "80556a35e6775a3b",
+      "query": "stranger things",
+      "value": "+50%"
     }
   ]
 }
