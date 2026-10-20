@@ -1,38 +1,7 @@
 {
-  "generated_at": "2026-10-20T19:50:57Z",
+  "generated_at": "2026-10-20T22:56:59Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
-  "google_trends": [
-    {
-      "id": "38729c60c7dca72e",
-      "query": "baguette",
-      "value": "+800%"
-    },
-    {
-      "id": "c20de8173f521a34",
-      "query": "elgoog",
-      "value": "+160%"
-    },
-    {
-      "id": "f3af783c0cf59976",
-      "query": "minecraftle",
-      "value": "+130%"
-    },
-    {
-      "id": "80556a35e6775a3b",
-      "query": "stranger things",
-      "value": "+90%"
-    },
-    {
-      "id": "9163820666604bfa",
-      "query": "67",
-      "value": "+40%"
-    },
-    {
-      "id": "1d6624577410835a",
-      "query": "minecraft wordle",
-      "value": "+40%"
-    }
-  ]
+  "google_trends": []
 }
