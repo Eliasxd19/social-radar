@@ -1,43 +1,7 @@
 {
-  "generated_at": "2026-10-21T03:33:41Z",
+  "generated_at": "2026-10-21T09:09:33Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
-  "google_trends": [
-    {
-      "id": "9861d4c9926a5313",
-      "query": "minecraft preview 26.70.21 packed ice",
-      "value": "+4400%"
-    },
-    {
-      "id": "eea036aec444709d",
-      "query": "google deepmind minecraft ai agents",
-      "value": "+4150%"
-    },
-    {
-      "id": "38729c60c7dca72e",
-      "query": "baguette",
-      "value": "+750%"
-    },
-    {
-      "id": "c20de8173f521a34",
-      "query": "elgoog",
-      "value": "+170%"
-    },
-    {
-      "id": "f3af783c0cf59976",
-      "query": "minecraftle",
-      "value": "+130%"
-    },
-    {
-      "id": "80556a35e6775a3b",
-      "query": "stranger things",
-      "value": "+100%"
-    },
-    {
-      "id": "1d6624577410835a",
-      "query": "minecraft wordle",
-      "value": "+40%"
-    }
-  ]
+  "google_trends": []
 }
