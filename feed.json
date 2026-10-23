@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-23T14:41:44Z",
+  "generated_at": "2026-10-23T19:48:45Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
   "google_trends": [
     {
-      "id": "eea036aec444709d",
-      "query": "google deepmind minecraft ai agents",
-      "value": "+6500%"
-    },
-    {
       "id": "9861d4c9926a5313",
       "query": "minecraft preview 26.70.21 packed ice",
-      "value": "+5050%"
+      "value": "+5100%"
+    },
+    {
+      "id": "eea036aec444709d",
+      "query": "google deepmind minecraft ai agents",
+      "value": "+4900%"
     },
     {
       "id": "d6a345a308a9b596",
@@ -27,7 +27,7 @@
     {
       "id": "c20de8173f521a34",
       "query": "elgoog",
-      "value": "+60%"
+      "value": "+40%"
     }
   ]
 }
