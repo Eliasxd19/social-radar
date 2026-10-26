@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-10-26T09:47:28Z",
+  "generated_at": "2026-10-26T16:33:02Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
   "google_trends": [
     {
-      "id": "eea036aec444709d",
-      "query": "google deepmind minecraft ai agents",
-      "value": "+6650%"
-    },
-    {
       "id": "9861d4c9926a5313",
       "query": "minecraft preview 26.70.21 packed ice",
-      "value": "+5300%"
+      "value": "+5250%"
     },
     {
-      "id": "7127a01d50b063af",
-      "query": "dominos minecraft",
-      "value": "+1300%"
+      "id": "eea036aec444709d",
+      "query": "google deepmind minecraft ai agents",
+      "value": "+5150%"
     },
     {
       "id": "581958f493f64f4e",
       "query": "dominos minecraft collab",
-      "value": "+1250%"
+      "value": "+1450%"
+    },
+    {
+      "id": "7127a01d50b063af",
+      "query": "dominos minecraft",
+      "value": "+1400%"
     },
     {
       "id": "76b065eb2bc295fa",
@@ -32,7 +32,7 @@
     {
       "id": "d6a345a308a9b596",
       "query": "alex minecraft",
-      "value": "+60%"
+      "value": "+80%"
     },
     {
       "id": "f3af783c0cf59976",
