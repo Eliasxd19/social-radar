@@ -1,33 +1,7 @@
 {
-  "generated_at": "2026-10-29T08:05:47Z",
+  "generated_at": "2026-10-29T16:39:04Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
-  "google_trends": [
-    {
-      "id": "f196af29224cb1ef",
-      "query": "dominoes minecraft",
-      "value": "+1150%"
-    },
-    {
-      "id": "581958f493f64f4e",
-      "query": "dominos minecraft collab",
-      "value": "+1000%"
-    },
-    {
-      "id": "7127a01d50b063af",
-      "query": "dominos minecraft",
-      "value": "+950%"
-    },
-    {
-      "id": "76b065eb2bc295fa",
-      "query": "minecraft pumpkin carving",
-      "value": "+150%"
-    },
-    {
-      "id": "80562c2f31085c17",
-      "query": "minecraft switch 2",
-      "value": "+100%"
-    }
-  ]
+  "google_trends": []
 }
