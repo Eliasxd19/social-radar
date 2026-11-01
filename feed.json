@@ -1,9 +1,14 @@
 {
-  "generated_at": "2026-10-31T21:04:11Z",
+  "generated_at": "2026-11-01T00:44:22Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
   "google_trends": [
+    {
+      "id": "73492038ecb7f43c",
+      "query": "minecraft mob collection game mode",
+      "value": "+2800%"
+    },
     {
       "id": "9b927305c9f0f4bc",
       "query": "minecraft jack o'lantern",
@@ -15,29 +20,29 @@
       "value": "+350%"
     },
     {
-      "id": "7127a01d50b063af",
-      "query": "dominos minecraft",
-      "value": "+350%"
+      "id": "a66f8a772ea5e281",
+      "query": "minecraft dominos",
+      "value": "+300%"
     },
     {
       "id": "581958f493f64f4e",
       "query": "dominos minecraft collab",
-      "value": "+250%"
+      "value": "+200%"
     },
     {
       "id": "76b065eb2bc295fa",
       "query": "minecraft pumpkin carving",
-      "value": "+180%"
+      "value": "+150%"
     },
     {
       "id": "80562c2f31085c17",
       "query": "minecraft switch 2",
-      "value": "+130%"
+      "value": "+110%"
     },
     {
       "id": "eee85b5a8bdd2929",
       "query": "minecraft pumpkin",
-      "value": "+60%"
+      "value": "+70%"
     }
   ]
 }
