@@ -1,17 +1,32 @@
 {
-  "generated_at": "2026-11-11T21:04:58Z",
+  "generated_at": "2026-11-12T02:43:23Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
   "google_trends": [
     {
+      "id": "45afe81ca704a928",
+      "query": "minecraft end update",
+      "value": "+300%"
+    },
+    {
       "id": "7c756da154b04f6b",
       "query": "minecraft advent calendar",
-      "value": "+80%"
+      "value": "+70%"
     },
     {
       "id": "dcc5af56dd3d9109",
       "query": "minecraft legos",
+      "value": "+40%"
+    },
+    {
+      "id": "1d6624577410835a",
+      "query": "minecraft wordle",
+      "value": "+40%"
+    },
+    {
+      "id": "fee50c106f714b6c",
+      "query": "roblox",
       "value": "+50%"
     }
   ]
