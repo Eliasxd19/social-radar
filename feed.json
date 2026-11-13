@@ -1,23 +1,18 @@
 {
-  "generated_at": "2026-11-13T11:53:42Z",
+  "generated_at": "2026-11-13T19:16:19Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
   "google_trends": [
-    {
-      "id": "45afe81ca704a928",
-      "query": "minecraft end update",
-      "value": "+300%"
-    },
     {
       "id": "b9c3ffedd554cc82",
       "query": "minecraft krillion",
       "value": "+300%"
     },
     {
-      "id": "7c756da154b04f6b",
-      "query": "minecraft advent calendar",
-      "value": "+60%"
+      "id": "45afe81ca704a928",
+      "query": "minecraft end update",
+      "value": "+250%"
     }
   ]
 }
