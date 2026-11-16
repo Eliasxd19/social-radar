@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-11-15T23:46:49Z",
+  "generated_at": "2026-11-16T05:03:00Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
   "google_trends": [
+    {
+      "id": "99847b1eee7df912",
+      "query": "throwing disc minecraft",
+      "value": "+13750%"
+    },
+    {
+      "id": "196e14bf394889d4",
+      "query": "new minecraft weapon",
+      "value": "+1450%"
+    },
     {
       "id": "45afe81ca704a928",
       "query": "minecraft end update",
@@ -12,17 +22,17 @@
     {
       "id": "c9f1687839801dc4",
       "query": "book of dragons mod minecraft",
-      "value": "+130%"
+      "value": "+120%"
     },
     {
       "id": "b9c3ffedd554cc82",
       "query": "minecraft krillion",
-      "value": "+110%"
+      "value": "+60%"
     },
     {
       "id": "1234829997b92f02",
       "query": "minecraft experience",
-      "value": "+50%"
+      "value": "+40%"
     }
   ]
 }
