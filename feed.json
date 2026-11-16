@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-11-16T14:57:45Z",
+  "generated_at": "2026-11-16T23:59:22Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
   "google_trends": [
     {
-      "id": "99847b1eee7df912",
-      "query": "throwing disc minecraft",
-      "value": "+13050%"
+      "id": "ea6e6393fdb1e4c4",
+      "query": "minecraft throwing disc",
+      "value": "+17500%"
     },
     {
       "id": "229d7e54c3c9c1ac",
       "query": "minecraft dragon ball world tournament",
-      "value": "+2600%"
-    },
-    {
-      "id": "196e14bf394889d4",
-      "query": "new minecraft weapon",
-      "value": "+1350%"
+      "value": "+3650%"
     },
     {
       "id": "45afe81ca704a928",
       "query": "minecraft end update",
-      "value": "+250%"
+      "value": "+200%"
     },
     {
       "id": "c9f1687839801dc4",
       "query": "book of dragons mod minecraft",
-      "value": "+120%"
+      "value": "+100%"
+    },
+    {
+      "id": "b9c3ffedd554cc82",
+      "query": "minecraft krillion",
+      "value": "+70%"
     },
     {
       "id": "1234829997b92f02",
       "query": "minecraft experience",
-      "value": "+60%"
+      "value": "+50%"
     }
   ]
 }
