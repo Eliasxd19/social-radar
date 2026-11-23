@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T21:34:06Z",
+  "generated_at": "2026-11-23T02:18:12Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
@@ -7,32 +7,47 @@
     {
       "id": "229d7e54c3c9c1ac",
       "query": "minecraft dragon ball world tournament",
-      "value": "+5350%"
+      "value": "+6200%"
+    },
+    {
+      "id": "59faa5fc7586135e",
+      "query": "minecraft mob vote 2026",
+      "value": "+1700%"
+    },
+    {
+      "id": "0b469ceb9d6ff98e",
+      "query": "minecraft mob vote",
+      "value": "+550%"
+    },
+    {
+      "id": "c9db7af607ac4098",
+      "query": "minecraft mob votes",
+      "value": "+500%"
     },
     {
       "id": "ce61b293b6d7bced",
       "query": "minecraft krillion game",
-      "value": "+170%"
+      "value": "+190%"
     },
     {
       "id": "68265a493b186655",
       "query": "minecraft killion",
-      "value": "+160%"
-    },
-    {
-      "id": "ea6e6393fdb1e4c4",
-      "query": "minecraft throwing disc",
-      "value": "+90%"
+      "value": "+150%"
     },
     {
       "id": "b9c3ffedd554cc82",
       "query": "minecraft krillion",
-      "value": "+90%"
+      "value": "+100%"
     },
     {
       "id": "1234829997b92f02",
       "query": "minecraft experience",
       "value": "+50%"
+    },
+    {
+      "id": "ea6e6393fdb1e4c4",
+      "query": "minecraft throwing disc",
+      "value": "+40%"
     }
   ]
 }
