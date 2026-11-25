@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-24T14:37:22Z",
+  "generated_at": "2026-11-25T00:23:42Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
-  "google_trends": []
+  "google_trends": [
+    {
+      "id": "59faa5fc7586135e",
+      "query": "minecraft mob vote 2026",
+      "value": "+2050%"
+    },
+    {
+      "id": "0b469ceb9d6ff98e",
+      "query": "minecraft mob vote",
+      "value": "+600%"
+    },
+    {
+      "id": "ce61b293b6d7bced",
+      "query": "minecraft krillion game",
+      "value": "+120%"
+    },
+    {
+      "id": "68265a493b186655",
+      "query": "minecraft killion",
+      "value": "+100%"
+    },
+    {
+      "id": "502a574b14dab320",
+      "query": "krillion minecraft",
+      "value": "+80%"
+    }
+  ]
 }
