@@ -1,33 +1,7 @@
 {
-  "generated_at": "2026-11-26T03:58:08Z",
+  "generated_at": "2026-11-26T13:43:19Z",
   "tiktok": [],
   "instagram": [],
   "reddit": [],
-  "google_trends": [
-    {
-      "id": "59faa5fc7586135e",
-      "query": "minecraft mob vote 2026",
-      "value": "+2600%"
-    },
-    {
-      "id": "2efde9eff8f37e73",
-      "query": "sword art offline minecraft",
-      "value": "+1300%"
-    },
-    {
-      "id": "0b469ceb9d6ff98e",
-      "query": "minecraft mob vote",
-      "value": "+550%"
-    },
-    {
-      "id": "9759d58db565b29b",
-      "query": "minellion",
-      "value": "+110%"
-    },
-    {
-      "id": "0ac3c8c067668403",
-      "query": "mike tomlin minecraft",
-      "value": "+90%"
-    }
-  ]
+  "google_trends": []
 }
